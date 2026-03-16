@@ -32,16 +32,13 @@
 [![Ms Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 </br>
 
-<a href="https://github.com/PabloHurtadoGonzalo86/github-readme-stats">
-     <img align="center" src="https://github-readme-stats-six-lyart-84.vercel.app/api?username=PabloHurtadoGonzalo86&show_icons=true&count_private=true&theme=tokyonight&layout=compact" />
-</a>
-<br></br>
-<br>
-<a href="https://github.com/PabloHurtadoGonzalo86/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-six-lyart-84.vercel.app/api/top-langs/?username=PabloHurtadoGonzalo86&show_icons=true&theme=tokyonight&hide=typescript,HTML&layout=compact" />
-</a>
-<br></br>
-<a href="https://github.com/PabloHurtadoGonzalo86/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloHurtadoGonzalo86&count_private=true&theme=tokyonight" alt="PabloHurtadoGonzalo86" />
-</a>
-   
+  ### GitHub Stats
+
+  <div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PabloHurtadoGonzalo86&theme=default" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PabloHurtadoGonzalo86&theme=default" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=PabloHurtadoGonzalo86&hide_border=true" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PabloHurtadoGonzalo86&theme=default" height="160" />
+
+  </div>
